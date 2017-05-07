@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
-int j;
+int i, j;
 
 return 0;
+
 }
